@@ -1,5 +1,8 @@
 plugins {
     id 'java'
+
+        id "io.freefair.lombok" version "6.6.3"
+
 }
 
 group 'ru.netology'
